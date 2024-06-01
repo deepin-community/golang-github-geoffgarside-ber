@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-geoffgarside-ber (1.1.0-2) unstable; urgency=medium
 
-  * Initial release
+  * Source upload for migration to testing.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Drew Parsons <dparsons@debian.org>  Sun, 04 Dec 2022 23:06:48 +0100
+
+golang-github-geoffgarside-ber (1.1.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1024527)
+
+ -- Drew Parsons <dparsons@debian.org>  Mon, 21 Nov 2022 00:25:32 +0100
